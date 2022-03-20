@@ -27,5 +27,5 @@ Construction engineer
 ## Languages ##
 
 * English - B2
-* German - A2
+* German - A1
 * Russian - native language
